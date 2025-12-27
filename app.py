@@ -196,4 +196,3 @@ with st.container():
 # =========================
 st.markdown("---")
 st.markdown("📘 **Kết luận:** Đơn thức là nền móng – Đa thức là cấu trúc của đại số.")
-
